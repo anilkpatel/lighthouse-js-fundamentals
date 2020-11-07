@@ -73,4 +73,7 @@ if (!raining) {
 //remember that the ! operator reverses the value of raining. 
 //That is, if raining is true, !raining is false. If raining is false, !raining is true.
 
-
+//CONCLUSION//
+/*In this exercise we learned about the if statement and how to use it to check if a condition is true. 
+We also learned about using logical operators to write more complex expressions. 
+We can use these tools to execute code when a certain criteria is met. 
